@@ -1,0 +1,32 @@
+@media screen and (max-width:1000px) {
+    #body{
+        /* background-color: yellow; */
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #navBar{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: fit-content;
+    }
+    #button1{
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    #footer{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+    }
+    .details1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: fit-content;
+    }
+}
